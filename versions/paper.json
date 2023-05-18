@@ -1,0 +1,18 @@
+{
+  "LOCATION": ".",
+  "versions": {
+    "0.0": {
+      "URL": "https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/303/downloads/paper-1.19.2-303.jar",
+      "FILE-NAME": "paper-1.19.2-303.jar"
+    },
+    "0.1": {
+      "URL": "https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/304/downloads/paper-1.19.2-304.jar",
+      "FILE-NAME": "paper-1.19.2-304.jar"
+    },
+    "0.2": {
+      "URL": "https://api.papermc.io/v2/projects/paper/versions/1.19.4/builds/538/downloads/paper-1.19.4-538.jar",
+      "FILE-NAME": "paper-1.19.4-538.jar",
+      "SHH512": "9e2f773ddc5cca0e6f9d4bea3acf998d955e2b466a4ff3f06b49b197cb1671536f46fa911f0bd4cc4e2a9143a314e445b678b4a68f382adfbf1e53095b0fe5f8"
+    }
+  }
+}
